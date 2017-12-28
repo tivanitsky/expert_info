@@ -9,4 +9,5 @@
   <subsystems>MSSQL</subsystems>
   <subsystems>Postgresql</subsystems>
   <subsystems>Oracle</subsystems>
+  <subsystems>DB2</subsystems>
 </mdclass:Subsystem>
