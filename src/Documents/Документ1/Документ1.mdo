@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3581827e-3c05-4a8c-b184-f2e5552764b9">
+  <producedTypes>
+    <objectType typeId="28829e13-a680-4593-ac75-0ee0ada6acee" valueTypeId="eec61a38-ac5e-431c-90d6-b30fa6819494"/>
+    <refType typeId="f5378417-fdad-4223-8995-b4b87141c5de" valueTypeId="7b6720f0-2131-4f6c-8d33-2493146f9a2f">
+      <emptyRef/>
+    </refType>
+    <selectionType typeId="ed702d7c-796c-4181-9b04-4f5924f18d09" valueTypeId="def3d3d8-c7ad-4151-ba12-efe664f1d0c7"/>
+    <listType typeId="03386728-454f-4e33-8480-2f7cb2389487" valueTypeId="7d4184cc-1cd5-4f45-8799-538333a5a152"/>
+    <managerType typeId="6faa18b6-b99f-4f28-a800-93f228af9581" valueTypeId="fd668462-50a5-493c-ad5e-890d1f7308bf"/>
+  </producedTypes>
+  <name>Документ1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Документ1</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.Документ1.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="1e71a293-361a-4a8c-84fc-3f4acc2f592d">
+    <name>Реквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Document>

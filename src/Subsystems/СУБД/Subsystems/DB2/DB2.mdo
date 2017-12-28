@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fc722905-eba6-46a1-975f-350fd3f34157">
+  <name>DB2</name>
+  <synonym>
+    <key>ru</key>
+    <value>Db2</value>
+  </synonym>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <parentSubsystem>Subsystem.СУБД</parentSubsystem>
+</mdclass:Subsystem>

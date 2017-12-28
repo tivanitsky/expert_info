@@ -35,4 +35,6 @@
   <subsystems>Subsystem.ОбщиеВопросы</subsystems>
   <subsystems>Subsystem.ApdexИКлючевыеОперации</subsystems>
   <subsystems>Subsystem.СУБД</subsystems>
+  <documents>Document.Документ</documents>
+  <documents>Document.Документ1</documents>
 </mdclass:Configuration>
