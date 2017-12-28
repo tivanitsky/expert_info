@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8e3fc40e-f116-422c-85a2-072545a23eaf">
+  <name>MSSQL</name>
+  <synonym>
+    <key>ru</key>
+    <value>MSSQL</value>
+  </synonym>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <parentSubsystem>Subsystem.СУБД</parentSubsystem>
+</mdclass:Subsystem>
