@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="77fc2f89-820c-49ae-bd29-1b4a10812e9d">
+  <name>КластерСерверов1С</name>
+  <synonym>
+    <key>ru</key>
+    <value>Кластер серверов 1С</value>
+  </synonym>
+  <includeInCommandInterface>true</includeInCommandInterface>
+</mdclass:Subsystem>
