@@ -36,4 +36,5 @@
   <subsystems>Subsystem.ApdexИКлючевыеОперации</subsystems>
   <subsystems>Subsystem.СУБД</subsystems>
   <subsystems>Subsystem.КластерСерверов1С</subsystems>
+  <documents>Document.Документ2</documents>
 </mdclass:Configuration>
